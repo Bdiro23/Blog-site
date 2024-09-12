@@ -1,0 +1,61 @@
+{
+  "about_us": {
+    "title": "À Propos de Nous",
+    "content": {
+      "our_mission": "Notre Mission",
+      "our_mission_text": "Notre mission est de redéfinir la façon dont les gens découvrent et interagissent avec les villes du monde entier. Nous croyons que chaque ville a une histoire unique à raconter, une culture à explorer et des expériences à vivre. Nous nous engageons à fournir des informations détaillées et authentiques qui mettent en valeur les merveilles cachées et les joyaux culturels de chaque destination. Notre plateforme est conçue pour connecter les voyageurs et les curieux avec les histoires locales, les traditions vivantes et les gens qui rendent chaque ville spéciale. En offrant des guides approfondis, des recommandations personnalisées et des perspectives locales, nous cherchons à enrichir les expériences de découverte pour tous. Nous croyons que le voyage est plus qu’une simple visite de nouveaux lieux; il s’agit aussi de comprendre, de ressentir et de se connecter d’une manière qui laisse un impact durable.",
+      "our_vision": "Notre Vision",
+      "our_vision_text": "Nous envisageons un monde où chaque personne, qu’elle soit voyageuse chevronnée ou exploratrice en herbe, peut se plonger dans la richesse et la diversité des cultures urbaines. Notre vision est de créer une plateforme globale qui facilite l’exploration de chaque coin du globe, où les utilisateurs peuvent non seulement découvrir les principales attractions d’une ville, mais aussi se plonger dans sa vie quotidienne, ses quartiers cachés et ses trésors inexplorés. Nous croyons en un voyage qui transcende les frontières, célèbre les différences et encourage la curiosité. Par notre travail, nous espérons inspirer une nouvelle génération de voyageurs à aller au-delà des clichés touristiques pour découvrir ce qui rend chaque ville unique. En connectant les gens avec du contenu engageant, des itinéraires adaptés et des histoires inspirantes, nous visons à construire des ponts culturels et à promouvoir la compréhension mutuelle dans le monde entier."
+    }
+  },
+  "contact_us": {
+    "title": "Contactez-Nous",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "envoie": "Envoyer"
+    }
+  },
+  "navbar": {
+    "nav": {
+      "home": "Accueil",
+      "about": "A propos",
+      "contact": "Contact",
+      "sign up": "S'inscrire",
+      "log in": "S'identifier",
+      "button": "Désendre"
+    }
+  },
+  "footer": {
+    "foot": {
+      "about":"A propos de nous",
+      "p": "Nous sommes passionnés par l’exploration urbaine et la découverte des trésors cachés des villes du monde entier. Notre mission est de vous offrir des expériences authentiques et inoubliables.",
+       "phone": "telephone",
+      "follow": "suivez-nous",
+      "droit": "© 2024 City Explorer. Tous droits réservés."
+    }
+  },
+
+  "login": {
+    "log":{
+      "login": "Bienvenue!",
+      "adress": "Adresse Email",
+      "pass": "Mot de Passe",
+      "identify": "S'identifier"
+    }
+  },
+
+  "signup": {
+  "sign": {
+    "title":"inscrivez-vous gratuitement",
+    "Fname": "Prénom",
+    "Lname": "Nom",
+    "Email": "Adresse Email",
+    "pass": "Mot de passe",
+    "confpass": "Confirmation du mot de passe",
+    "start": "Commencer"
+  }
+}
+}

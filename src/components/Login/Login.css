@@ -1,0 +1,67 @@
+.formsl{
+    width:70%;
+    height:440px;
+    margin:auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-top:20px;
+    border-radius:10px;
+    border: 1px solid #ddd;
+}
+
+.log{
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+}
+
+.field-wrap{
+    display:flex;
+    flex-direction:column;
+    gap:7px;
+}
+input{
+    width:650px;
+    height: 18px;
+    border-color: #cd7815;
+    border-radius:5px;
+}
+form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.title_login{
+    border-bottom: 3px solid darkorange;
+}
+
+.button {
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 8px 8px;
+    margin-top:10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background: #d77900; /* Dark button color */
+    color: #fff;
+    width: 20%;
+    margin-left:40%;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background: #555; /* Slightly lighter on hover */
+    transform: scale(1.02); /* Subtle scaling effect */
+}
+.error {
+    color: #e74c3c; /* Red color for errors */
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
+
+.forgot {
+    margin-top: -10px;
+    text-align: right;
+}
